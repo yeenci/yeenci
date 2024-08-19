@@ -1,3 +1,4 @@
+![Cat Banner](banner.svg)
 ## Hi there 👋
 
 - 🔭 I’m currently working on ...
