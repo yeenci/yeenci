@@ -67,6 +67,6 @@ Thank you for taking the time to explore my GitHub profile. I hope you found som
 
 <!-- <div align="center"> -->
 <div>
-    <a href="www.linkedin.com/in/chi-nguyen-c208n203/"><img alt="contributors" src="https://img.shields.io/badge/-LinkedIn-4B0082?style=flat&logo=linkedin"></a>
+    <a href="https://www.linkedin.com/in/chi-nguyen-c208n203/"><img alt="contributors" src="https://img.shields.io/badge/-LinkedIn-4B0082?style=flat&logo=linkedin"></a>
 </div>
 
