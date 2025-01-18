@@ -36,9 +36,10 @@
 ![Japanese](https://img.shields.io/badge/-Japanese_N5-4B0082?style=flat&logo=japan)
 
 ## 🌱 What I'm Learning
-- **UI Design:** Studying the basics of user interface design to create more attractive and user-friendly applications.
+- **Full-Stack Development**: Exploring both frontend and backend development to build comprehensive and robust applications.
 - **Advanced AI:** Deepening my understanding of AI concepts to create smarter and more efficient software.
 - **Japanese Language:** Improving my Japanese, currently at N5 level, to enhance my communication skills.
+- **UI Design:** Studying the basics of user interface design to create more attractive and user-friendly applications.
 
 ## 🔥 GitHub Streak Stats
 
