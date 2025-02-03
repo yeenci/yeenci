@@ -1,6 +1,6 @@
 ![Cat Banner](./resources/banner.svg)
 
-<h2 align="center" style="color: #4B0082">Full Stack Developer | Aspiring UI Designer | AI Enthusiast 🐾</h2>
+<h2 align="center" style="color: #183369">Full Stack Developer | Aspiring UI Designer | AI Enthusiast 🐾</h2>
 
 <div align="center"> Hi there! I'm Chi, a dedicated full-stack developer who loves combining creativity with technology. Although I don't have a cat, my fondness for these charming creatures often inspires my work. As a self-learner, I'm always eager to expand my knowledge and continuously improve my skills in both software development and design. </div>
 
@@ -11,29 +11,29 @@
 
 ## 🔮 Tech & Skills
 ### 🛠️ Programming Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-4B0082?style=flat&logo=javascript) 
-![Golang](https://img.shields.io/badge/-Golang-4B0082?style=flat&logo=go)
-![Python](https://img.shields.io/badge/-Python-4B0082?style=flat&logo=python) 
-![C/C++](https://img.shields.io/badge/-C/C++-4B0082?style=flat&logo=c) 
-![Java](https://img.shields.io/badge/-Java-4B0082?style=flat&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-183369?style=flat&logo=javascript) 
+![Golang](https://img.shields.io/badge/-Golang-183369?style=flat&logo=go)
+![Python](https://img.shields.io/badge/-Python-183369?style=flat&logo=python) 
+![C/C++](https://img.shields.io/badge/-C/C++-183369?style=flat&logo=c) 
+![Java](https://img.shields.io/badge/-Java-183369?style=flat&logo=java)
 
 ### 🧩 Web Development
-![HTML](https://img.shields.io/badge/-HTML-4B0082?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-4B0082?style=flat&logo=css3)
-![ReactJS](https://img.shields.io/badge/-ReactJS-4B0082?style=flat&logo=react)
-![NodeJS](https://img.shields.io/badge/-NodeJS-4B0082?style=flat&logo=node.js)
-![ElectronJS](https://img.shields.io/badge/-ElectronJS-4B0082?style=flat&logo=electron)
-![Flask](https://img.shields.io/badge/-Flask-4B0082?style=flat&logo=flask)
+![HTML](https://img.shields.io/badge/-HTML-183369?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-183369?style=flat&logo=css3)
+![ReactJS](https://img.shields.io/badge/-ReactJS-183369?style=flat&logo=react)
+![NodeJS](https://img.shields.io/badge/-NodeJS-183369?style=flat&logo=node.js)
+![ElectronJS](https://img.shields.io/badge/-ElectronJS-183369?style=flat&logo=electron)
+![Flask](https://img.shields.io/badge/-Flask-183369?style=flat&logo=flask)
 
 ### ☁️ Frameworks and Tools
-![MongoDB](https://img.shields.io/badge/-MongoDB-4B0082?style=flat&logo=mongodb)
-![XAMPP](https://img.shields.io/badge/-XAMPP-4B0082?style=flat&logo=xampp)
-![RESTful APIs](https://img.shields.io/badge/-RESTful_APIs-4B0082?style=flat&logo=api)
-![Flask-SocketIO](https://img.shields.io/badge/-Flask--SocketIO-4B0082?style=flat&logo=flask)
+![MongoDB](https://img.shields.io/badge/-MongoDB-183369?style=flat&logo=mongodb)
+![XAMPP](https://img.shields.io/badge/-XAMPP-183369?style=flat&logo=xampp)
+![RESTful APIs](https://img.shields.io/badge/-RESTful_APIs-183369?style=flat&logo=api)
+![Flask-SocketIO](https://img.shields.io/badge/-Flask--SocketIO-183369?style=flat&logo=flask)
 
 ### 🌐 Foreign Languages
-![English](https://img.shields.io/badge/-English-4B0082?style=flat&logo=language)
-![Japanese](https://img.shields.io/badge/-Japanese_N5-4B0082?style=flat&logo=japan)
+![English](https://img.shields.io/badge/-English-183369?style=flat&logo=language)
+![Japanese](https://img.shields.io/badge/-Japanese_N5-183369?style=flat&logo=japan)
 
 ## 🌱 What I'm Learning
 - **Full-Stack Development**: Exploring both frontend and backend development to build comprehensive and robust applications.
@@ -68,6 +68,6 @@ Thank you for taking the time to explore my GitHub profile. I hope you found som
 
 <!-- <div align="center"> -->
 <div>
-    <a href="https://www.linkedin.com/in/chi-nguyen-c208n203/"><img alt="contributors" src="https://img.shields.io/badge/-LinkedIn-4B0082?style=flat&logo=linkedin"></a>
+    <a href="https://www.linkedin.com/in/chi-nguyen-c208n203/"><img alt="contributors" src="https://img.shields.io/badge/-LinkedIn-183369?style=flat&logo=linkedin"></a>
 </div>
 
