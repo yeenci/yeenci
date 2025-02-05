@@ -44,16 +44,16 @@
 ## 🔥 GitHub Streak Stats
 
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=ume-meu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=chihiro-203&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ## 🌌 GitHub Profile Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ume-meu&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=chihiro-203&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ume-meu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chihiro-203&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenthiyenchi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
   <br>
   <strong>Note:</strong> Due to some issues with my old GitHub account, I’ve decided to start fresh with a new one. As a result, the "Top Languages" section shows the languages used in my public repositories but may not fully reflect my experience or skill level.
