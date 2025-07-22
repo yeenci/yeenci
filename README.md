@@ -1,6 +1,6 @@
 ![Cat Banner](./resources/banner.svg)
 
-<h2 align="center" style="color: #183369">Full Stack Developer | Aspiring UI Designer | AI Enthusiast 🐾</h2>
+<h2 align="center" style="color: #183369">Aspiring Full Stack Developer | Aspiring UI Designer | AI Enthusiast 🐾</h2>
 
 <div align="center"> Hi there! I'm Chi, a dedicated full-stack developer who loves combining creativity with technology. Although I don't have a cat, my fondness for these charming creatures often inspires my work. As a self-learner, I'm always eager to expand my knowledge and continuously improve my skills in both software development and design. </div>
 
