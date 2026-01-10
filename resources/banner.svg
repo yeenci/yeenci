@@ -17,6 +17,7 @@
     <g class="plane">
       <polygon fill="#0c396f" points="25.3 158.5 783.2 293 513 354.9 25.3 158.5" />
     </g>
-    <text x="350" y="100" font-family="Verdana" font-size="24" fill="#68c6dd" transform="rotate(11 -180,100)">Welcome to My World!</text>
+    <text x="350" y="100" font-family="Verdana" font-size="24" fill="#68c6dd" transform="rotate(11 -180,100)">Welcome to Yeenci!</text>
   </g>
 </svg>
+
