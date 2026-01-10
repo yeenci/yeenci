@@ -12,6 +12,7 @@
 ## 🔮 Tech & Skills
 ### 🛠️ Programming Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-183369?style=flat&logo=javascript) 
+![Typescript](https://img.shields.io/badge/-Typescript-183369?style=flat&logo=typescript) 
 ![Golang](https://img.shields.io/badge/-Golang-183369?style=flat&logo=go)
 ![Python](https://img.shields.io/badge/-Python-183369?style=flat&logo=python) 
 ![C/C++](https://img.shields.io/badge/-C/C++-183369?style=flat&logo=c) 
