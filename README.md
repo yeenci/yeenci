@@ -5,9 +5,17 @@
 <div align="center"> Hi there! I'm Chi, a dedicated full-stack developer who loves combining creativity with technology. Although I don't have a cat, my fondness for these charming creatures often inspires my work. As a self-learner, I'm always eager to expand my knowledge and continuously improve my skills in both software development and design. </div>
 
 ## ✨ About Me
-- 🧠 I'm currently exploring AI and Machine Learning to build smarter applications.
-- 🌍 I enjoy developing full-stack projects, from the back-end to the front-end.
-- 😿 Sadly, I don’t have a cat, but I hope to adopt one someday!
+Frontend Developer who enjoys blending creativity with technology.  
+I love crafting clean, user-friendly interfaces and exploring AI to build more meaningful digital experiences.
+
+- 🎨 UI/UX & creative development
+- 🧠 AI & Machine Learning exploration
+- 🌍 Full-stack product building
+- 😿 Cat lover (still waiting for my first cat)
+
+✷ Frontend Developer ✷  
+@ Bosch Global Software Technologies Vietnam (Nov 2024 – Jan 2025)  
+@ Gameloft Vietnam (Apr 2025 – Present)
 
 ## 🔮 Tech & Skills
 ### 🛠️ Programming Languages
