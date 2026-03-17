@@ -13,9 +13,9 @@ I love crafting clean, user-friendly interfaces and exploring AI to build more m
 - 🌍 Full-stack product building
 - 😿 Cat lover (still waiting for my first cat)
 
-✷ Frontend Developer ✷  
-@ Bosch Global Software Technologies Vietnam (Nov 2024 – Jan 2025)  
-@ Gameloft Vietnam (Apr 2025 – Present)
+**✷ Frontend Developer ✷**  
+@ Bosch Global Software Technologies Vietnam (*Nov 2024 – Jan 2025*)  
+@ Gameloft Vietnam (*Apr 2025 – Present*)
 
 ## 🔮 Tech & Skills
 ### 🛠️ Programming Languages
